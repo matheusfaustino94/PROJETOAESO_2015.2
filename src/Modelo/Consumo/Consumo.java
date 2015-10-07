@@ -5,6 +5,7 @@ public class Consumo {
 	private int ID_Consumo;
 	private int ID_Quarto;
 	private String nome;
+	private int valor;
 
 	public int getID_Consumo() {
 		return ID_Consumo;
